@@ -2,8 +2,8 @@
 
 This project involves applying data mining techniques on COVID-19 data to extract association rules and visualize these rules as a network. The datasets we are using are:
 
-* Original data: [nCoV2019/original](nCoV2019/original)
-  * Cleaned data for further analysis: [nCoV2019/for_use](nCoV2019/for_use)
+* Original data: [data/nCoV2019/original](data/nCoV2019/original)
+  * Cleaned data for further analysis: [data/nCoV2019/for_use](data/nCoV2019/for_use)
 
 # Software
 
