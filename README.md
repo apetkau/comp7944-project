@@ -31,9 +31,8 @@ Below lists all the interactive versions of our visualization of association rul
 
 Copies of the two datasets we are using can be found at:
 
-1. Epidemiological dataset: [data/nCoV2019/original](data/nCoV2019/original)
-   2. Cleaned data for further analysis: [data/nCoV2019/for_use](data/nCoV2019/for_use)
-2. Genomics (SNV) dataset: [data/snv-data/original](data/snv-data/original)
+1. [Epidemiological dataset (data)](data/nCoV2019/original)
+2. [Genomics (SNV) dataset (data)](data/snv-data/original)
 
 # Defining transaction datasets for mining
 
