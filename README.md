@@ -1,6 +1,6 @@
 # COMP 7944 Project
 
-This project involves applying data mining techniques on COVID-19 data to extract association rules and visualize these rules as a network. This repository includes code and supplementary materials for the project.
+This project involves applying data mining techniques on COVID-19 data to extract association rules and visualize these rules as a network. This repository includes code and supplementary materials for the project and is available online at <https://github.com/apetkau/comp7944-project>.
 
 # Authors
 
@@ -31,8 +31,8 @@ Below lists all the interactive versions of our visualization of association rul
 
 Copies of the two datasets we are using can be found at:
 
-1. [Epidemiological dataset (data)](data/nCoV2019/original)
-2. [Genomics (SNV) dataset (data)](data/snv-data/original)
+1. [Epidemiological dataset (data)](data/nCoV2019/original) - [(alternative link)](https://github.com/apetkau/comp7944-project/blob/master/data/nCoV2019/original)
+2. [Genomics (SNV) dataset (data)](data/snv-data/original) - [(alternative link)](https://github.com/apetkau/comp7944-project/blob/master/data/snv-data/original)
 
 # Defining transaction datasets for mining
 
