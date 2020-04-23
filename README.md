@@ -12,7 +12,7 @@ Prepared for COMP 7944 at the University of Manitoba on April 23, 2020 by:
 
 # Interative visualizations
 
-Below lists all the interactive versions of our visualization of association rules (as a network). For each dataset we produced two networks, one where nodes are colored by **confidence** and the other where nodes are colored by **lift**.
+Below lists all the interactive versions of our visualization of association rules (as a network). For each dataset we produced two networks, one where nodes are colored by **confidence** and the other where nodes are colored by **lift**. Zooming or panning can be accomplished using the mouse, and network nodes can be dragged and dropped.
 
 1. Symptoms rules network
    1. [Symptoms rules (confidence)](https://apetkau.github.io/comp7944-project/symptoms-rules-confidence.html)
